@@ -4,8 +4,6 @@
  */
 package casadecampo;
 
-import java.util.Scanner;
-
 /**
  *
  * @author KudiezoJr
