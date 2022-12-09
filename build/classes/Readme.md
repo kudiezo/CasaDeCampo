@@ -1,5 +1,11 @@
+# TRABALHO DO PROFESSOR
+
+# ISPTEC
+# DET
+# Programação 3
+
 [ENUNCIADO]
- 
+
 Numa casa de campo existem vários animais. 
 Alguns animais são domésticos: cães, gatos e pássaros (canários, etc.). Os donos acreditam em 
 dar liberdade completa aos animais, o que causa alguns problemas de interacção nem sempre 
